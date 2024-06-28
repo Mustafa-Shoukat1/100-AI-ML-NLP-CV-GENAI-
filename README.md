@@ -46,8 +46,8 @@
 
 | Sr No | Name                                                         | Link                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1     | Fine-Tuning 🧠 & PEFT | Q-LoRA | ORPO | LLaMA3 🚀           | [👆](https://github.com/Mustafa-Shoukat1/-Fine-Tuning-and-PEFT-with-QLoRA-on-LLaMA-3-) |
-| 2     | Huggine Face🤗 Datasets, Pre-Trained Models,Transformers     | [👆](https://github.com/Mustafa-Shoukat1/Practical-of-Models-Datasets-Transformers-) |
+| 1     | Fine-Tuning 🧠 & PEFT,Q-LoRA, ORPO, LLaMA3 🚀               | [👆](https://github.com/Mustafa-Shoukat1/-Fine-Tuning-and-PEFT-with-QLoRA-on-LLaMA-3-) |
+| 2     | Huggine Face🤗 Datasets, Pre-Trained Models,Transformers    | [👆](https://github.com/Mustafa-Shoukat1/Practical-of-Models-Datasets-Transformers-) |
 | 3     | Decoding Transformers: Guide by GenAI for In-Depth Insights  | [👆](https://github.com/Mustafa-Shoukat1/-Transformer-Arch-GenAI-Guide-Insights)        |
 | 4     | 10 Machine Learning Projects on Time Series Forecasting      | [👆](https://medium.com/coders-camp/10-machine-learning-projects-on-time-seri%20es-forecasting-ee0368420ccd) |
 | 5     | 20 Deep Learning Projects Solved and Explained with Python   | [👆](https://thecleverprogrammer.com/2020/11/22/deep-learning-projects-with-python/) |
